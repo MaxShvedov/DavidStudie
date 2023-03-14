@@ -1,4 +1,4 @@
-﻿namespace programm
+﻿namespace program
 {
     //TODO: Удалить комментарии кроме summary
     class Program
